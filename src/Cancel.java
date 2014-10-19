@@ -4,10 +4,7 @@
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Sumeeth
- */
+
 import javax.servlet.http.*;
 
 import java.io.*;
