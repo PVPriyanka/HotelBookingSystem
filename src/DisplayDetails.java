@@ -4,10 +4,7 @@
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Sumeeth
- */
+
 import java.io.*;
 
 import java.sql.*;
