@@ -4,10 +4,7 @@
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Sumeeth
- */import java.sql.*;
+import java.sql.*;
 public class DataBaseConnection {
     public void connection()
 	{
